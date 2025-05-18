@@ -14,7 +14,8 @@ npm install lucide-react clsx tailwind-merge class-variance-authority tailwindcs
 npm install -D @shadcn/ui
 ```
 
-### 5. Inicializar shadcn/ui
+### 5. Inicializar shadcn/uinpm uninstall date-fns
+npm install date-fns@3.6.0 --legacy-peer-deps
 
 ```shellscript
 npx shadcn@latest init
